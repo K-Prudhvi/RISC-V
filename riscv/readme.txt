@@ -1,0 +1,5 @@
+-> Compile the program using "gcc l3.c".
+-> Run it using "./a.out".
+-> While testing a file should contain hexadecimals instructions one per line.
+-> filename should be given by user.
+-> file should be in same directory.
